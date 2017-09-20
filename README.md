@@ -15,8 +15,12 @@
 * [possible plants](http://homeaquaponicssystem.com/plants/what-are-the-best-plants-for-aquaponics/)
 * may need a stryofoam divider to keep duckweed/azolla from interfering with aquaponics platform
 
-## other stuff
+## links
 * [eddie's aquarium centre](https://www.eddiesaqua.com/) has supplies locally
+* [instagram link 1](https://www.instagram.com/p/BY1D9Ckg1nL/?taken-by=raccoon_chronicles)
+* [instagram link 2](https://www.instagram.com/p/BY_a_DKgAMN/?taken-by=raccoon_chronicles)
+* [instagram link 3](https://www.instagram.com/p/BZAQd_OAWrt/?taken-by=raccoon_chronicles)
+* [instagram link 4](https://www.instagram.com/p/BZMVv0ngn_U/?taken-by=raccoon_chronicles)
 
 
 
