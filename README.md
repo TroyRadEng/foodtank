@@ -14,6 +14,7 @@
 * mosquitofish
 * aquatic snails
 * [crawfish?](http://www.crawfish.info/)
+* [golden clams](https://permies.com/t/19546/Raising-freshwater-mussels)
 
 ## aquaponics layer
 * aquaponics platform is made of [canvas for embroidery projects](https://www.amazon.com/gp/product/B0019D2244/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
