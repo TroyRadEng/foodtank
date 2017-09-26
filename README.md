@@ -9,6 +9,12 @@
 
 * mealworm frass will feed both plants and bugs
 
+## animals inside the tank
+
+* mosquitofish
+* aquatic snails
+* [crawfish?](http://www.crawfish.info/)
+
 ## aquaponics layer
 * aquaponics platform is made of [canvas for embroidery projects](https://www.amazon.com/gp/product/B0019D2244/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 * platform is stabilized on [suction cups](https://www.amazon.com/gp/product/B01MDKYG89/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) and has [aquaponics pots](https://www.amazon.com/NP2AB-Slotted-Hydroponics-Aquaponics-Orchids/dp/B00I1OCZLY/ref=sr_1_2?s=lawn-garden&ie=UTF8&qid=1505862458&sr=1-2&keywords=aquaponics+pots) resting in holes snipped into it
