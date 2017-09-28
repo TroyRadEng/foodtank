@@ -23,6 +23,7 @@
 * aquatic snails
 * [crawfish?](http://www.crawfish.info/)
 * [golden clams](https://permies.com/t/19546/Raising-freshwater-mussels)
+* ghost shrimp
 
 ## aquaponics layer
 * [aquatic mint](http://www.ebay.com/itm/Water-Mint-Live-Plant-Mentha-Aquatica-NON-GMO-Organic-/112244469567?hash=item1a224aaf3f:g:g-4AAOSwNE5YWzKp)
