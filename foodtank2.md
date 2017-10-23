@@ -13,3 +13,7 @@ Also include some [hornwort](http://aquariumplants.club/product/1-hornwort-bunch
 ## animals
 
 * It will contain [ghost shrimp](http://aquariumfish.net/catalog_pages/misc_critters/ghost_shrimp_for_sale.htm), which should remain on the bottom of the tank.
+
+## aquaponics layer
+
+* [ground cherries](https://www.youtube.com/watch?v=qIY7cnWa1iY)
