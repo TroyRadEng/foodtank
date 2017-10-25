@@ -29,6 +29,10 @@
 * [aquatic mint](http://www.ebay.com/itm/Water-Mint-Live-Plant-Mentha-Aquatica-NON-GMO-Organic-/112244469567?hash=item1a224aaf3f:g:g-4AAOSwNE5YWzKp)
 * [other possibilities](http://homeaquaponicssystem.com/plants/what-are-the-best-plants-for-aquaponics/)
 
+# possible tray extension
+
+* Set it up like the picture in [this](http://opensourceecology.org/wiki/Hydroponics) article.  Use flexible tubing.  Run [grow light strips](https://www.amazon.com/ABelle-Lights-16-4ft-Waterproof-Spectrum/dp/B01NAC7ZOC?psc=1&SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffsb-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01NAC7ZOC) along the understide of the spiral so the light shines on plants positioned in the top side.  All of this hangs from some kind of stand.
+
 # links
 * [eddie's aquarium centre](https://www.eddiesaqua.com/) has supplies locally
 * [instagram link 1](https://www.instagram.com/p/BY1D9Ckg1nL/?taken-by=raccoon_chronicles)
