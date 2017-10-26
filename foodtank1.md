@@ -32,7 +32,7 @@
 # aquaponics extension
 
 * Set it up like the picture in [this](http://opensourceecology.org/wiki/Hydroponics) article.  Use flexible tubing.  Run [grow light strips](https://www.amazon.com/ABelle-Lights-16-4ft-Waterproof-Spectrum/dp/B01NAC7ZOC?psc=1&SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffsb-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01NAC7ZOC) along the understide of the spiral so the light shines on plants positioned in the top side.  All of this hangs from some kind of stand.
-* or... build an aquaponics system out of a freaking MARBLE DROP SET! [[1]](https://www.amazon.com/dp/B071FSLMP2/ref=dp_sp_detail?psc=1)[[2]](https://www.amazon.com/dp/B012E06V1K/ref=dp_sp_detail?psc=1)
+* or... build an aquaponics system out of a freaking MARBLE DROP SET! [[1]](https://www.amazon.com/dp/B071FSLMP2/ref=dp_sp_detail?psc=1)[[2]](https://www.amazon.com/dp/B012E06V1K/ref=dp_sp_detail?psc=1)[[3]](https://www.ebay.com/itm/Marbulous-Childrens-Kids-Marble-Drop-Race-Run-100pce-Construction-Track-Toy/131855900534?hash=item1eb3395f76:g:P2AAAOSwc1FXaru3)
 
 # links
 * [eddie's aquarium centre](https://www.eddiesaqua.com/) has supplies locally
