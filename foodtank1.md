@@ -32,7 +32,7 @@
 # aquaponics extension
 
 * Set it up like the picture in [this](http://opensourceecology.org/wiki/Hydroponics) article.  Use flexible tubing.  Run [grow light strips](https://www.amazon.com/ABelle-Lights-16-4ft-Waterproof-Spectrum/dp/B01NAC7ZOC?psc=1&SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffsb-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01NAC7ZOC) along the understide of the spiral so the light shines on plants positioned in the top side.  All of this hangs from some kind of stand.
-* or... build an aquaponics system out of a freaking MARBLE DROP SET! [[1]](https://www.amazon.com/dp/B071FSLMP2/ref=dp_sp_detail?psc=1)[[2]](https://www.amazon.com/dp/B012E06V1K/ref=dp_sp_detail?psc=1)[[3]](https://www.ebay.com/itm/Marbulous-Childrens-Kids-Marble-Drop-Race-Run-100pce-Construction-Track-Toy/131855900534?hash=item1eb3395f76:g:P2AAAOSwc1FXaru3)
+* or... build an aquaponics system out of a freaking CHILDREN'S MARBLE RUN! [[1]](https://www.amazon.com/dp/B071FSLMP2/ref=dp_sp_detail?psc=1)[[2]](https://www.amazon.com/dp/B012E06V1K/ref=dp_sp_detail?psc=1)[[3]](https://www.ebay.com/itm/Marbulous-Childrens-Kids-Marble-Drop-Race-Run-100pce-Construction-Track-Toy/131855900534?hash=item1eb3395f76:g:P2AAAOSwc1FXaru3)[[4]](https://www.ebay.com/p/Marble-Madness-Master-Set-HUGE-220pc-Marble-Run-200-Tracks-20-Marbles/1144260541?iid=201949141414&_trkparms=aid%3D555018%26algo%3DPL.SIM%26ao%3D2%26asc%3D48739%26meid%3Df5ebdfee322747dfa4be511bdc786a56%26pid%3D100005%26rk%3D3%26rkt%3D6%26sd%3D131855900534&_trksid=p2047675.c100005.m1851)
 
 # links
 * [eddie's aquarium centre](https://www.eddiesaqua.com/) has supplies locally
