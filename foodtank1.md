@@ -1,6 +1,6 @@
 # modified version
 
-* [video](https://encrypted.google.com/search?hl=en&q=one tank aquaponics)
+* [video](https://www.youtube.com/watch?v=B4l3VJFestY)
 
 
 # equipment
