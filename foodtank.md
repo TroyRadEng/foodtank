@@ -13,4 +13,20 @@
 
 # plants and animals
 * the tank contains goldfish (high ammonia producers) and also duckweed / azolla / water lettuce to shield the water from too much light
+* aquatic snails for algae cleaning
 * grow beds contain veggies
+
+# future ideas for grow beds / tank
+* [aquatic mint](http://www.ebay.com/itm/Water-Mint-Live-Plant-Mentha-Aquatica-NON-GMO-Organic-/112244469567?hash=item1a224aaf3f:g:g-4AAOSwNE5YWzKp)
+* [crayfish](https://www.youtube.com/watch?v=iITD-GmmpLE)
+* [other possibilities](http://homeaquaponicssystem.com/plants/what-are-the-best-plants-for-aquaponics/)
+
+# automation
+* arduino
+* [water level sensors](https://www.amazon.com/Gikfun-Sensor-Arduino-Mega2560-Duemilanove/dp/B00Q9YAMJK/ref=sr_1_3_sspa?s=electronics&ie=UTF8&qid=1517796050&sr=1-3-spons&keywords=water+level+sensor+arduino&psc=1)
+* [controllable outlet](https://www.sparkfun.com/tutorials/119)
+
+
+# misc inspiration
+* [video 1](https://www.youtube.com/watch?v=B4l3VJFestY)
+* build an aquaponics system out of a freaking CHILDREN'S MARBLE RUN! [[1]](https://www.amazon.com/dp/B071FSLMP2/ref=dp_sp_detail?psc=1)[[2]](https://www.amazon.com/dp/B012E06V1K/ref=dp_sp_detail?psc=1)[[3]](https://www.ebay.com/itm/Marbulous-Childrens-Kids-Marble-Drop-Race-Run-100pce-Construction-Track-Toy/131855900534?hash=item1eb3395f76:g:P2AAAOSwc1FXaru3)[[4]](https://www.ebay.com/p/Marble-Madness-Master-Set-HUGE-220pc-Marble-Run-200-Tracks-20-Marbles/1144260541?iid=201949141414&_trkparms=aid%3D555018%26algo%3DPL.SIM%26ao%3D2%26asc%3D48739%26meid%3Df5ebdfee322747dfa4be511bdc786a56%26pid%3D100005%26rk%3D3%26rkt%3D6%26sd%3D131855900534&_trksid=p2047675.c100005.m1851)
