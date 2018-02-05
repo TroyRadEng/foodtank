@@ -1,6 +1,3 @@
-# modified version
-
-* [video](https://www.youtube.com/watch?v=B4l3VJFestY)
 
 
 # equipment
@@ -46,6 +43,8 @@
 * [instagram link 3](https://www.instagram.com/p/BZAQd_OAWrt/?taken-by=raccoon_chronicles)
 * [instagram link 4](https://www.instagram.com/p/BZMVv0ngn_U/?taken-by=raccoon_chronicles)
 
+# inspiration
+* [video 1](https://www.youtube.com/watch?v=B4l3VJFestY)
 
 
 
