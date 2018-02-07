@@ -20,11 +20,13 @@
 * [aquatic mint](http://www.ebay.com/itm/Water-Mint-Live-Plant-Mentha-Aquatica-NON-GMO-Organic-/112244469567?hash=item1a224aaf3f:g:g-4AAOSwNE5YWzKp)
 * [crayfish](https://www.youtube.com/watch?v=iITD-GmmpLE)
 * [other possibilities](http://homeaquaponicssystem.com/plants/what-are-the-best-plants-for-aquaponics/)
+* [use it as a cloning system for plants](http://www.nosoilsolutions.com/clone-plant-hydroponically/) (maybe even trees)
 
 # automation
 * arduino
 * [water level sensors](https://www.amazon.com/Gikfun-Sensor-Arduino-Mega2560-Duemilanove/dp/B00Q9YAMJK/ref=sr_1_3_sspa?s=electronics&ie=UTF8&qid=1517796050&sr=1-3-spons&keywords=water+level+sensor+arduino&psc=1)
 * [controllable outlet](https://www.sparkfun.com/tutorials/119)
+* [some more stuff](https://makezine.com/projects/aquaponic-garden/)
 
 
 # misc inspiration
