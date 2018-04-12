@@ -9,3 +9,4 @@
 * [serviceberries](https://rslandscapedesign.blogspot.com/2010/04/amelanchier-serviceberry.html)
 * [cherries](https://www.hunker.com/12002253/how-to-clone-cherry-trees)
 * [raspberries](http://homeguides.sfgate.com/clone-raspberries-72811.html)
+* [hardy kiwi](http://homeguides.sfgate.com/propagating-cutting-hardy-kiwi-30181.html) (andrew lynn can give you some)
